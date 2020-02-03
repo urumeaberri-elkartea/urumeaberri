@@ -1,0 +1,17 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contacto
+  subtitle : Detalles de contacto
+  content : Si tienes cualquier pregunta o duda sobre el proyecto no dudes en preguntarnos.
+  form_action: "https://formspree.io/xvoakvky" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Barrio Urumea Berri, Astigarraga"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Tlf: 626135554"
+     
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: urumeaberri.elkartea@gmail.com"

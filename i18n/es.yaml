@@ -1,0 +1,24 @@
+- id: blogTitle
+  translation: Últimas Noticias
+- id: readMore
+  translation: Leer más
+- id: viewAllPost
+  translation: Ver Todas Las Noticias
+- id: share
+  translation: Compartir
+- id: aboutAuthor
+  translation: Acerca del autor
+- id: authorsPosts
+  translation: Noticias del autor
+- id: submit
+  translation: Enviar
+- id: all
+  translation: Todo
+- id: copyright
+  translation: copyright &copy; 2020 Urumea Berri G.K.E.
+- id: name
+  translation: Nombre
+- id: subject
+  translation: Asunto
+- id: message
+  translation: Mensaje

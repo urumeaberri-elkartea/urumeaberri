@@ -1,0 +1,24 @@
+- id: blogTitle
+  translation: Azken Berriak
+- id: readMore
+  translation: Gehiago irakurri
+- id: viewAllPost
+  translation: Berri Guztiak Ikusi
+- id: share
+  translation: Partekatu
+- id: aboutAuthor
+  translation: Egileari buruz
+- id: authorsPosts
+  translation: Egilearen berriak
+- id: submit
+  translation: Bidali
+- id: all
+  translation: Dena
+- id: copyright
+  translation: copyright &copy; 2020 Urumea Berri G.K.E.
+- id: name
+  translation: Izena
+- id: subject
+  translation: Gaia
+- id: message
+  translation: Mezua
