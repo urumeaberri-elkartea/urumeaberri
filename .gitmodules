@@ -2,3 +2,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/urumeaberri-elkartea/urumeaberri-elkartea.github.io.git
+[submodule "meghna-hugo"]
+	path = themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo.git
