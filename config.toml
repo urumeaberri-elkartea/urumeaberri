@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://urumeaberri-elkartea.github.io"
+baseURL = "https://www.urumeaberrigke.org"
 title = "Urumea Berri G.K.E."
 theme = "meghna-hugo"
 DefaultContentLanguage = "es"
@@ -123,10 +123,10 @@ weight = 1
 #URL = "counter"
 #weight = 3
 
-[[Languages.es.menu.main]]
-name = "Preguntas frequentes"
-URL = "faq"
-weight = 4
+#[[Languages.es.menu.main]]
+#name = "Preguntas frequentes"
+#URL = "faq"
+#weight = 4
 
 [[Languages.es.menu.main]]
 name = "Noticias"
@@ -148,25 +148,30 @@ home = "Hasiera"
 
 [[Languages.eu.menu.main]]
 name = "Proiektua"
-URL = "about"
+URL = "proyecto"
 weight = 1
 
 [[Languages.eu.menu.main]]
-name = "Zenbat gara"
-URL = "services"
+name = "Egin bazkide"
+URL = "socio"
 weight = 2
 
-[[Languages.eu.menu.main]]
-name = "Ohizko galderak"
-URL = "team"
-weight = 3
+#[[Languages.eu.menu.main]]
+#name = "Zenbat gara"
+#URL = "counter"
+#weight = 3
+
+#[[Languages.eu.menu.main]]
+#name = "Ohizko galderak"
+#URL = "faq"
+#weight = 4
 
 [[Languages.eu.menu.main]]
 name = "Berriak"
-URL = "blog"
-weight = 4
+URL = "noticias"
+weight = 5
 
 [[Languages.eu.menu.main]]
 name = "Kontaktua"
 URL = "contact"
-weight = 5
+weight = 6

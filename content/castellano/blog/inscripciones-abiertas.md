@@ -1,5 +1,5 @@
 ---
-title: "Inscripciones abiertas"
+title: "¡Inscripciones abiertas!"
 date: 2020-01-30T12:00:00+01:00
 image: images/blog/pencil.jpg
 description : "Inscripciones abiertas para hacerse socio"
@@ -16,3 +16,8 @@ Como indicábamos en la noticia para el avance del proyecto se han establecido l
 - Para poder recoger físicamente a las personas que lo deseen (también pueden enviarse por email escaneado) dicho formulario se ha reservado el salón de actos de la casa de cultura (junto al SagardoEtxe) para el próximo jueves 6 de febrero de 18h a 20h. En dicho espacio estaremos igualmente gustosos de responder cuantas preguntas puedan surgir a parte de compartir las novedades que haya.
 
 - Tras dicha reunión informativa tendremos la capacidad de poder realizar asambleas de socios para tener la capacidad de tomar decisiones. Como es previsible, sólo los socios/as tendrán capacidad de decidir en lo que a equipación, acabados, etc. tendrá la futura sociedad gastronómica. Pero una de las primeras decisiones será el importe a satisfacer por los socios para acometer la compra del local, que se realizará tan pronto como sea posible. El planteamiento que se ha visto como más interesante desde la Junta Directiva es que UNA VEZ ALCANZADA la cifra de 100 socios se dividirá el importe de la compra entre el nº de socios. Si por el motivo que sea no se alcanzase dicha cifra se analizará la viabilidad en una asamblea y se elevará la cuota de acceso a los nuevos socios (del mismo modo que ocurre en la compra de un dorsal para una carrera, no tiene el mismo precio hacerlo 6 meses antes que el día antes de la carrera). Una vez realizada la compra del local estimamos que no debieran realizarse aportaciones extraordinarias para el acondicionamiento, o al menos no debieran ser de un importe tan elevado como pueda suponer la compra ya que podría realizarse vía préstamo, evidentemente dependeremos de las condiciones impuestas por el banco. Como referencia se ha calculado, a modo de ejemplo, que unos 150.000 € pueden salir a unos 15€/mes por socio, a 10 años. Pero como se ha dicho antes estas cantidades se podrán decidir en asamblea y conforme se encuentre el mercado en el momento de realizar la solicitud de préstamo.
+
+
+1. [Estatutos](http://bit.ly/UB-Estatutos)
+2. [Reglamento interno](http://bit.ly/UB-Reglamento-Interno)
+3. [Formulario de inscripción](http://bit.ly/UB-Formulario-Alta)

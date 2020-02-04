@@ -1,0 +1,25 @@
+############################# About ###################################
+socio:
+  enable : true
+  title : Egin bazkide
+  content: "<p>Bazkide egin aurretik estatutuak eta barne-araudia irakurtzea gomendatzen dizugu. 
+  Ezagutzen ditugun beste elkarte gastronomiko batzuetan oinarrituak daude baino bazkide guztien artean eztabaidatu eta aldatu ahal izango dira antolatzen diren hurrengo bileretan.</p>
+  <p>Proiektuan bat egiteko izen-emate inprimakia deskargatu, datuak bete eta 200&euro;-ko transferentzia bat egin beharra dago elkartearen kontu-korrontera. 
+  Kontu korronte zenbakia inprimakian aurkitu daiteke.</p>
+  <p>Lokalaren erosketari ekiteko jende kopuru nahikoa lortuko ez balitz dirua bueltatuko litzake pertsona guztiei.</p>
+  <p>Guzti hau egin ondoren, posta elektronikoz edo zuzenean entregatu beharko dira bai izen-emate inprimakia eta bai transferentzi zihurtagiria.</p>"
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : 1. Estatutuak
+    url : http://bit.ly/UB-Estatutos
+    #content : 
+
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : 2. Barne-araudia
+    url : http://bit.ly/UB-Reglamento-Interno
+  #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-align-justify # themify icon pack : https://themify.me/themify-icons
+    title : 3. Izen-emate inprim.
+    url : http://bit.ly/UB-Formulario-Alta
+  #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
