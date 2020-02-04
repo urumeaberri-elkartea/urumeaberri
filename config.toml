@@ -49,7 +49,6 @@ link = "plugins/google-map/map.js"
 
 
 
-
 ############################# Default Parameters ##########################
 [params]
 # logo = "images/logo.png"
