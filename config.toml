@@ -123,10 +123,10 @@ weight = 1
 #URL = "counter"
 #weight = 3
 
-#[[Languages.es.menu.main]]
-#name = "Preguntas frequentes"
-#URL = "faq"
-#weight = 4
+[[Languages.es.menu.main]]
+name = "Preguntas frequentes"
+URL = "faq"
+weight = 4
 
 [[Languages.es.menu.main]]
 name = "Noticias"
@@ -161,10 +161,10 @@ weight = 2
 #URL = "counter"
 #weight = 3
 
-#[[Languages.eu.menu.main]]
-#name = "Ohizko galderak"
-#URL = "faq"
-#weight = 4
+[[Languages.eu.menu.main]]
+name = "Ohizko galderak"
+URL = "faq"
+weight = 4
 
 [[Languages.eu.menu.main]]
 name = "Berriak"
