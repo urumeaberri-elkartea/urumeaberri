@@ -1,8 +1,7 @@
 ############################# feature ###################################
 proyecto:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/project/local.png
   title : El proyecto
   subtitle: ¡Las inscripciones están abiertas!
   content : "<p>Somos un grupo de vecinos de Astigarraga unidos por el mismo objetivo, crear una nueva sociedad gastronómica en el pueblo.</p>

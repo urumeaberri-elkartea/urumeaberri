@@ -1,8 +1,7 @@
 ############################# feature ###################################
 proyecto:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/project/local.png
   title : Proiektua
   subtitle: Izen-emate epea ireki da!
   content : "<p>Helburu berdina duten astigartar bizilagun talde bat gara, gastronomi kultur elkarte berri bat sortzea herrian.</p>
