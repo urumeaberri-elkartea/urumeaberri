@@ -9,14 +9,15 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 html {
   background-color: #353b43;
-  color: #8f9dab;
+  color: #bfcede;
 }
 
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #8f9dab;
+  color: #bfcede;
   -webkit-font-smoothing: antialiased;
+  font-size: 1.1rem;
 }
 
 h1,
@@ -27,7 +28,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #ffffff;
 }
 
 p {
@@ -39,7 +40,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color: #ffffff;
 }
 
 /*=================================================================
@@ -414,7 +415,7 @@ a:hover {
 
 .navigation .navigation-menu li a {
   font-size: 16px;
-  color: #8f9dab;
+  color: #bfcede;
 }
 
 .navigation .navigation-menu li a:hover,
@@ -642,7 +643,7 @@ a:hover {
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #ffffff;
 }
 
 /*=================================================================
@@ -896,7 +897,7 @@ a:hover {
   font-size: 16px;
   padding: 6px 20px;
   font-weight: 700;
-  color: #8f9dab;
+  color: #bfcede;
   transition: .3s all;
 }
 
@@ -1159,7 +1160,7 @@ a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: #ffffff;
   font-size: 18px;
 }
 
@@ -1521,13 +1522,13 @@ a:hover {
 }
 
 .post-comment-name {
-  color: #afbac4;
+  color: #ffffff;
   font-weight: 500;
   font-size: 18px;
 }
 
 .post-time {
-  color: #8f9dab;
+  color: #bfcede;
 }
 
 input#e-mail,
