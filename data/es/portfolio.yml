@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : false
-  title : Our Works
+  title : El Local
   portfolio_item :
     # portfolio item loop
     - name : Tag Design
