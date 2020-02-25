@@ -1,0 +1,4 @@
+alert:
+  enable : false
+  title : Prueba de alerta
+  content : "<p>kfajd ñfj dsklfj ñlsa fjkldsa jflñds alñf jd fñsda</p>"

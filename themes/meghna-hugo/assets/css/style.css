@@ -436,6 +436,10 @@ a:hover {
   border-top: 5px solid transparent;
 }
 
+.navigation .navbar-nav {
+  margin-right: 10px;
+}
+
 @media (min-width: 768px) {
   .navigation .navbar-collapse {
     box-shadow: none;
