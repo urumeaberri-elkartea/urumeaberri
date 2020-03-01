@@ -12,4 +12,4 @@ funfacts:
     # counter item loop
     - title : "Personas inscritas"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "47"
+      count : "48"
