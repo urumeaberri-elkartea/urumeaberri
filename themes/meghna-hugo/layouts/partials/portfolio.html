@@ -3,7 +3,7 @@
 {{ if $data.portfolio.portfolio.enable }}
 {{ with $data.portfolio.portfolio }}
 {{"<!-- Portfolio Section -->" | safeHTML}}
-<section class="portfolio section" id="portfolio">
+<section class="portfolio section" id="local">
 	<div class="container">
 		<div class="row ">
 			<div class="col-xl-12">
@@ -16,7 +16,16 @@
 				{{"<!-- /section title -->" | safeHTML}}
 			</div>
 		</div>
+
 		<div class="row">
+			<div class="col-lg-12">
+				<div class="content-block">
+					{{ .content | safeHTML }}
+				</div>
+			</div>
+		</div>
+
+		<!-- <div class="row">
 			<div class="col-lg-12">
 				<div class="btn-group portfolio-filter btn-group-toggle justify-content-center d-flex flex-wrap"
 					data-toggle="buttons">
@@ -36,7 +45,7 @@
 					{{ end }}
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<div class="row shuffle-wrapper justify-content-center">
 			{{"<!-- portfolio item -->" | safeHTML}}
@@ -50,7 +59,7 @@
 							data-lightbox="image-1">
 							<i class="ti-search"></i>
 						</a>
-						<h4 class="mt-3"><a href="{{ .link | safeURL }}">{{ .name }}</a></h4>
+						<h4 class="mt-3"><a class="image-popup" data-lightbox="image-1" data-effect="mfp-with-zoom" href="{{ .image | relURL }}">{{ .name }}</a></h4>
 						<p>{{ .content | markdownify }}</p>
 					</div>
 				</div>

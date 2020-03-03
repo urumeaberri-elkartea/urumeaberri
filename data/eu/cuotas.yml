@@ -1,0 +1,38 @@
+############################# cuotas ###################################
+cuotas:
+  enable : true
+  title : Kuotak
+  content : "<p>Bazkideen azken batzarrean, lokalaren finantzazioari aurre egiten joateko, <strong>50€-ko hileroko kuota</strong> bat jartzea erabaki da, apiriletik aurrera hasita.</p>
+  <p>Zenbateko hau nondik atera dugun jakiteko, lokala erosiko duen inbertsorearekin sinatuko dugun kontratuaren baldintzak azalduko ditugu:</p>
+  <ul>
+  <li>Berak lokala erosiko du 140.000€-gatik eta <strong>5% UTB</strong>-ko irabazi bat aplikatuko dio. Irabazi hau <strong>urteko 7.000€</strong> dira.</li>
+  <li>Elkarteak 10 urteren zehar ordainduko duen alokairua irabazi hauek ordaintzeko izango da bakarrik. Honela, 583€ + BEZ = <strong>705€/hileko</strong> alokairu batera eramaten gaitu.</li>
+  <li>Oraintxe garen bazkide kopuruaren artean <strong>14,10€/hileko</strong> suposatzen du.</li>
+  <li>Irabaziez aparte, 10 urte dauzkagu nahikoa diru kopuru biltzeko lokala erosteko. Salneurri hau lokalak gaur egun kostatu duena + KPI izango da.</li>
+  <li>Gaur egun garen bazkide kopuruarekin diru hau biltzeko, lokalaren salneurria hilabete kopuruarekin zatitu ondoren, bazkide bakoitzak <strong>24€/hileko</strong> jarri beharko lituzke.</li>
+  <li>Bi kuota hauen baturak 38,10€/hileko ematen digu bazkideko. Kopuru hau borobilduz eta tarte txiki bat edukitzeko, kuota <strong>bazkideko 50€-tan</strong> ezartzea erabaki zen.</li>
+  <li>Bazkide gehiago lortzen goazen heinean kuota hauek jaisten joan daitezke edo bestalde, lokala erosteko nahikoa diru lortuko dugu denbora tarte laburragoan.</li>
+  </ul>
+  <p>Lokalean egin beharreko lanen faseari aurre egiteko, bazkide bakoitzak lanen hasieran <strong>1.500€</strong>-ko ekarpen bat egitea erabaki da eta lan hauek irauten duten bitartean beste <strong>1.200€</strong> jarri beharko dira bazkideko denbora tarte horretan banatuak.</p>
+  <p>Laburtzeko, bazkide bakoitzak ordaindu beharko dituen kuotak honela geratzen dira:</p>"
+  pricing_table :
+    # pricing table loop
+    - name : Hileroko kuota
+      price : 50€
+      unit : hileko
+      services:
+        - Bazkide kopuruaren arabera jaitsi daiteke
+      
+    # pricing table loop
+    - name : Lanen hasiera
+      price : 1.500€
+      unit : bazkideko
+      services:
+        - Lokalean egin beharreko lanei hasiera emateko
+        
+    # pricing table loop
+    - name : Lanen zehar
+      price : 1.200€
+      unit : bazkideko
+      services:
+        - Behar den heinean jartzen joango gara

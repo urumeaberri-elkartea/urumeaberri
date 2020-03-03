@@ -20,9 +20,9 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="content-block">
-					<h2>{{ .subtitle | markdownify }}</h2>
+					<!-- <h2>{{ .subtitle | markdownify }}</h2> -->
 					{{ .content | safeHTML }}
-					<img src="{{ .image | absURL }}" class="img-fluid" />
+					<!-- <img src="{{ .image | absURL }}" class="img-fluid" /> -->
 					{{ if .feature_item }}
 					<div class="row">
 						{{ range .feature_item }}

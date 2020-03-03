@@ -109,34 +109,39 @@ weight = 1
 home = "Home"
 
 [[Languages.es.menu.main]]
-name = "Hazte socio/a"
-URL = "socio"
-weight = 2
-
-[[Languages.es.menu.main]]
 name = "El proyecto"
 URL = "proyecto"
 weight = 1
 
-#[[Languages.es.menu.main]]
-#name = "Cuantos somos"
-#URL = "counter"
-#weight = 3
+[[Languages.es.menu.main]]
+name = "El local"
+URL = "local"
+weight = 2
+
+[[Languages.es.menu.main]]
+name = "Las cuotas"
+URL = "cuotas"
+weight = 3
+
+[[Languages.es.menu.main]]
+name = "Hazte socio/a"
+URL = "socio"
+weight = 4
 
 [[Languages.es.menu.main]]
 name = "Preguntas frequentes"
 URL = "faq"
-weight = 4
+weight = 5
 
 [[Languages.es.menu.main]]
 name = "Noticias"
 URL = "noticias"
-weight = 5
+weight = 6
 
 [[Languages.es.menu.main]]
 name = "Contacto"
 URL = "contact"
-weight = 6
+weight = 7
 
 ################################ Euskera ########################
 [Languages.eu]
@@ -152,26 +157,32 @@ URL = "proyecto"
 weight = 1
 
 [[Languages.eu.menu.main]]
-name = "Egin bazkide"
-URL = "socio"
+name = "Lokala"
+URL = "local"
 weight = 2
 
-#[[Languages.eu.menu.main]]
-#name = "Zenbat gara"
-#URL = "counter"
-#weight = 3
+[[Languages.eu.menu.main]]
+name = "Kuotak"
+URL = "cuotas"
+weight = 3
+
+[[Languages.eu.menu.main]]
+name = "Egin bazkide"
+URL = "socio"
+weight = 4
+
 
 [[Languages.eu.menu.main]]
 name = "Ohizko galderak"
 URL = "faq"
-weight = 4
+weight = 5
 
 [[Languages.eu.menu.main]]
 name = "Berriak"
 URL = "noticias"
-weight = 5
+weight = 6
 
 [[Languages.eu.menu.main]]
 name = "Kontaktua"
 URL = "contact"
-weight = 6
+weight = 7

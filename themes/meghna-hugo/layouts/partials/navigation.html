@@ -2,7 +2,7 @@
 <nav id="navigation" class="navbar navbar-expand-lg navigation sticky-top">
 	<div class="container">
 		{{"<!-- logo -->" | safeHTML}}
-		<a class="navbar-brand logo" href="{{ .Site.BaseURL | relLangURL }}">
+		<a class="navbar-brand logo" href="{{ .Site.BaseURL | relLangURL }}#body">
 			{{ if .Site.Params.logo }}
 			<img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
 			{{ else }}
@@ -23,7 +23,6 @@
 		{{ if .IsHome }}
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ml-auto navigation-menu">
-				<li class="nav-item"><a class="nav-link" href="#body">{{ with .Site.Params.home }}{{ . }}{{ end }}</a></li>
 				{{ range .Site.Menus.main }}
 				<li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ .Name }}</a></li>
 				{{ end }}
@@ -54,7 +53,6 @@
 		{{ else }}
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ml-auto navigation-menu">
-				<li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#body">{{ with .Site.Params.home }}{{ . }}{{ end }}</a></li>
 				{{ range .Site.Menus.main }}
 				<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}#{{ .URL }}">{{ .Name }}</a></li>
 				{{ end }}

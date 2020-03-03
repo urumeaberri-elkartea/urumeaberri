@@ -1,76 +1,28 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : false
+  enable : true
   title : El Local
+  content: "<p>El local que se va a adquirir está situado en la calle Aiotzategi Nº 20, en el nuevo barrio de Urumea Berri, justo detrás del supermercado Dia. Hace esquina por lo que tiene orientación sur y oeste. Muy buena ubicación y soleado durante prácticamente todo el día.</p>
+  <p>Tiene <strong>180 m<sup>2</sup></strong> y está valorado en <strong>115.000 &euro; + IVA</strong>, que asciende a un total de 139.150€.</p>
+  <p>Para la compra del local se ha llegado a un acuerdo con un inversor de confianza. Utilizaremos este inversor a modo de financiación, ya que los bancos no nos financiarían la operación al no tener la asociación ninguna actividad todavía.</p>
+  <p>El inversor se encargará de la compra del local y la asociación pagará un pequeño alquiler durante 10 años. Transcurridos estos años se procederá a realizar la compra del local por la asociación.</p>
+  <p>Con este movimiento conseguimos no tener que hacer el desembolso de los 140.000€ del local y poder pagarlo mediante una pequeña cuota mensual que pagará cada socio y socia.</p>"
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+    - name : El local
+      image : images/portfolio/Foto-local.png
+      image_webp : images/portfolio/Foto-local.webp
+      content : En la calle Aiotzategi 20, justo detrás del supermercado Dia.
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+    - name : Plano del local
+      image : images/portfolio/Plano-3d.png
+      image_webp : images/portfolio/Plano-3d.webp
+      content : Alzado en 3D del plano del local.
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+    - name : Plano del local
+      image : images/portfolio/Plano-arriba.jpg
+      image_webp : images/portfolio/Plano-arriba.webp
+      content : Plano cenital del local
       
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"

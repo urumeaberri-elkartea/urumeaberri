@@ -964,6 +964,10 @@ a:hover {
   color: #555;
 }
 
+.portfolio-block .caption p {
+  color: #8d939c;
+}
+
 .portfolio-block .caption .search-icon {
   background: #57cbcc;
   width: 50px;
