@@ -10,7 +10,7 @@ socio:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : 1. Estatutuak
-    url : http://bit.ly/UB-Estatutos-v3
+    url : https://bit.ly/UB-Estatudos-GV
     #content : 
 
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
