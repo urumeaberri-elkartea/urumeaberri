@@ -2320,4 +2320,10 @@ figcaption {
   padding: 10px;
   display: block;
 }
+
+#alert .alert-primary {
+  background-color: #242930;
+  border-color: #242930;
+  color: #bfcede;
+}
 /*# sourceMappingURL=maps/style.css.map */

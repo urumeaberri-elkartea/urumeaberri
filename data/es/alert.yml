@@ -1,4 +1,4 @@
 alert:
-  enable : false
-  title : Prueba de alerta
-  content : "<p>kfajd ñfj dsklfj ñlsa fjkldsa jflñds alñf jd fñsda</p>"
+  enable : true
+  title : COVID-19
+  content : "<p>Debido a la situación en la que nos encontramos se ha decidido retrasar el inicio del cobro de las cuotas mensuales acordadas. Pronto se organizará, a través de internet, una reunión de socios y socias para establecer la fecha de inicio de estas cuotas y comentar las novedades sobre el proyecto.</p>"
