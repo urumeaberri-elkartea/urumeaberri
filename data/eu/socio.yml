@@ -3,8 +3,8 @@ socio:
   enable : true
   title : Egin bazkide
   content: "<p>Bazkide egin aurretik estatutuak eta barne-araudia irakurtzea gomendatzen dizugu. Ezagutzen ditugun beste elkarte gastronomiko batzuetan oinarrituak daude baino bazkide guztien artean eztabaidatu eta aldatu ahal izango dira antolatzen diren hurrengo bileretan.</p>
-  <p>Proiektuan bat egiteko <strong>200€</strong>-ko hasierako kuota bat ordaintzea beharrezkoa da. Honetaz gain <strong>egunean jarri beharko zara hileroko kuoten ordainketarekin</strong>, orain arte egindako kuoten zenbatekoa berdindu beharko duzu.</p>
-  <p>Lehenengo hileroko kuota apirilean ordainduko da, beraz, maiatzean norbaitek bazkide egin nahi badu ordaindu beharreko diru kopurua 200€ + 50€-ko 2 hileroko izango da.</p>
+  <p>Proiektuan bat egiteko <strong>200€</strong>-ko hasierako kuota bat ordaintzea beharrezkoa da. Honetaz gain <strong>egunean jarri beharko zara hileroko kuoten ordainketarekin edo eta obra egiteko jarri behar izan diren ekarpenekin</strong>, hau da, beste bazkideek egindako ekarpenen zenbatekoa berdindu beharko duzu.</p>
+  <p>Jar dezagun lehenengo hileroko kuota apirilean ordaindu dela, beraz, maiatzean norbaitek bazkide egin nahi badu ordaindu beharreko diru kopurua 200€ + 50€-ko 2 hileroko izango da.</p>
   <p>Bazkide egiteko izen-emate inprimakia deskargatu, datuak bete eta elkartearen kontu-korrontera transferentzia bat egin beharra dago dagokion diru kopuruarekin. Kontu korronte zenbakia inprimakian aurkitu daiteke.</p>
   <p>Guzti hau egin ondoren, posta elektronikoz edo zuzenean entregatu beharko dituzu bai izen-emate inprimakia eta bai transferentzia ziurtagiria.</p>"
   about_item :

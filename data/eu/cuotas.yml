@@ -13,7 +13,7 @@ cuotas:
   <li>Bi kuota hauen baturak 38,10€/hileko ematen digu bazkideko. Kopuru hau borobilduz eta tarte txiki bat edukitzeko, kuota <strong>bazkideko 50€-tan</strong> ezartzea erabaki zen.</li>
   <li>Bazkide gehiago lortzen goazen heinean kuota hauek jaisten joan daitezke edo bestalde, lokala erosteko nahikoa diru lortuko dugu denbora tarte laburragoan.</li>
   </ul>
-  <p>Lokalean egin beharreko lanen faseari aurre egiteko, bazkide bakoitzak lanen hasieran <strong>1.500€</strong>-ko ekarpen bat egitea erabaki da eta lan hauek irauten duten bitartean beste <strong>1.200€</strong> jarri beharko dira bazkideko denbora tarte horretan banatuak.</p>
+  <p>Lokalean egin beharreko lanen faseari aurre egiteko, <strong>100 bazkide kopurura iritsiko garela pentsatuz</strong>, bazkide bakoitzak lanen hasieran <strong>1.500€</strong>-ko ekarpen bat egitea erabaki da eta lan hauek irauten duten bitartean beste <strong>1.200€</strong> jarri beharko dira bazkideko denbora tarte horretan banatuak.</p>
   <p>Laburtzeko, bazkide bakoitzak ordaindu beharko dituen kuotak honela geratzen dira:</p>"
   pricing_table :
     # pricing table loop

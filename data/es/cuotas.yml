@@ -13,7 +13,7 @@ cuotas:
   <li>La suma de estas dos cuotas nos da 38,10€/mes por socio/a. Para redondear y tener un margen se decidió dejar esta cuota en <strong>50€ al mes por socio o socia</strong>.</li>
   <li>Según vayamos juntando más socios y socias estas cuotas podrán ir rebajándose o por el contrario acumularemos antes el dinero suficiente para proceder a la compra del local.</li>
   </ul>
-  <p>Para hacer frente a la fase de obras, se ha decidido hacer una aportación inicial de <strong>1.500€ por socio/a</strong> al inicio de las obras y otros <strong>1.200€ por socio/a</strong> repartidos en el periodo de tiempo que puedan durar las mismas.</p>
+  <p>Para hacer frente a la fase de obras, y <strong>pensando que llegaremos a la cifra de 100 socios y socias</strong>, se ha decidido dividir los pagos en una aportación inicial de <strong>1.500€ por socio/a</strong> al inicio de las obras y otros <strong>1.200€ por socio/a</strong> repartidos en el periodo de tiempo que puedan durar las mismas.</p>
   <p>Resumiendo, las cuotas por socio o socia quedarían de la siguiente manera:</p>"
   pricing_table :
     # pricing table loop
