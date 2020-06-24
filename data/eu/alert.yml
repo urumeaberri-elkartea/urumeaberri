@@ -1,4 +1,4 @@
 alert:
   enable : true
-  title : COVID-19
-  content : "<p>Gauden egoera ikusita hileroko kuotaren ordainketekin hastea atzeratzea erabaki da. Laster antolatuko da, internet bidez, bazkideen bilera bat kuota hauen hasiera data ipini eta proiektuaren inguruko azken berriei buruz berri emateko.</p>"
+  title : Azken Berriak
+  content : "<ul><li>Elkarteak barbakoa izango du!</li><li>Hileroko kuotekin hasiko gara uztailan.</li></ul>"
