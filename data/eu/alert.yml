@@ -1,4 +1,4 @@
 alert:
   enable : true
   title : Azken Berriak
-  content : "<ul><li>Elkarteak barbakoa izango du!</li><li>Hileroko kuotekin hasiko gara uztailan.</li></ul>"
+  content : "<ul><li>Elkarteak ikatz parrila izango du!</li><li>Hileroko kuotekin hasiko gara uztailan. </li></ul>"

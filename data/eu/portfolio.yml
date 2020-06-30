@@ -2,11 +2,11 @@
 portfolio:
   enable : true
   title : Lokala
-  content: "<p>Erosiko den lokala Aiotzategi kaleko 20 zenbakian aurkitzen da, Urumea Berri auzo berrian, Dia supermerkatuaren atzean. Kantoi batean kokatuta dago eta hego eta mendebalde orientazioa dauka. Kokapen oso ona eta eguzkitsua egun osoan zehar.</p>
-  <p><strong>180 m<sup>2</sup></strong> dauzka eta <strong>115.000 &euro; + BEZ</strong>-eko prezioa, hau da, 139.150€.</p>
-  <p>Lokala erosteko konfiantzazko inbertsore batekin akordio batera iritsi gara. Inbertsore hau finantzazio bezala erabiliko dugu, bankuek ez bait gaituzte operazioa finantzatu nahi, lokalak ez bait dauka inolako aktibitaterik oraindik.</p>
-  <p>Inbertsoreak lokala erosiko du eta elkarteak alokairu txiki bat ordainduko du 10 urtez. Urte hauek pasa eta gero elkarteak lokala erosi beharko du.</p>
-  <p>Mugimendu honekin lokala erosteko 140.000€-ko ordainketa egin behar izatea aurrezten dugu eta lokala bazkide bakoitzak ordainduko duen kuota txiki baten bidez ordainduko da.</p>"
+  content: "<p>Elkartea ezarriko den lokala Aiotzategi kaleko 20 zenbakian aurkitzen da, Urumea Berri auzo berrian, Dia supermerkatuaren atzean. Kantoi batean kokatuta dago eta hego eta mendebalde orientazioa dauka. Kokapen oso ona eta eguzkitsua egun osoan zehar.</p>
+  <p><strong>180 m<sup>2</sup></strong> dauzka eta <strong>115.000 &euro; + BEZ</strong>-eko prezioan erosi da, hau da, 139.150€.</p>
+  <p>Lokalaren erosketa baldintza ezin hobean finantzatua dago. 10 urterako alokairu bat da eta erosketa aukera esklusiboa daukagu. Alokairuak iraungo duen 10 urte hauetan interesak ordainduko ditugu bakarrik, <strong>%5 UTB-an ezarriak (625€/hilabetean)</strong>. Honela, <strong>ez da beharrezkoa izango lokala erosteko dirua aurreratzea</strong> eta 10 urte dauzkagu lokala erosteko diru kopuru hau biltzeko. Honek operazioa askoz ere merkeagoa egingo du.</p>
+  <p>Bazkide batzarrean lokala erostea erabaki zen nahiz eta 100 bazkide kopurura ez garen iritsi, <strong>aukera ezin hobea zela ikusi bait zen.</strong>. Lokalaren m2 638€-tan erosi da eta inguruko beste lokalak 1200€/m2 prezioan saltzen hari dira. Behin lokala erosita dagoela, behar dugun denbora itxarongo dugu bazkide kopuru nahikoa izateko lokalaren egokitzapenari aurre egiteko. Ideia pixkanaka egiten joatea da, batzarretan erabakitzen dugun heinean. Proiektua hau epe luzerako proiektu bat izan daiteke.</p>
+  <p>Egokitzapen proiektuen aurrekontuak eskatzen gabiltza obrak zenbat kostatuko zaigun gutxi gora behera jakiteko. Erreferentziazko daukagu prezioa <strong>1500€/m2 da</strong> gehienez, honekin zenbatekoa 270.000€-koa izango litzateke. <strong>100 bazkideren artean, 2.700€/bazkideko izango litzateke</strong>. Kopuru hau jaistea da ideia, obraren gauzatzean parte hartuz, gremio desberdinen koordinazioaz arduratzen etab., baino oraingoz, kopuru hori ezarri dugu ezustekoen aurrean babesteko.</p>"
   portfolio_item :
     # portfolio item loop
     - name : Lokala
