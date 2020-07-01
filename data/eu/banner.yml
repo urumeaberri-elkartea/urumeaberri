@@ -5,8 +5,9 @@ banner:
   bg_image : "images/backgrounds/IMG_20200131_125135-PANO.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Urumea Berri G.K.E."
-  content : "Gastronomi Kultur Elkarte berria zure auzoan, lokala badugu!"
+  subtitle : "Gastronomi Kultur Elkarte berria zure auzoan!"
+  content : "Interesatua bazaude ez eduki zalantzarik eta izena eman. Proiektuak bizilagunen konpromezua behar du eta zenbat eta jende gehiago azkarrago egingo dugu aurrera."
   button:
-    enable : true
+    enable : false
     label : "Gehiago jakin nahi dut"
     link : "#about"
