@@ -6,7 +6,7 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Urumea Berri G.K.E."
   subtitle: "¡Nueva sociedad gastronómica cultural en tu barrio!"
-  content : "Si estás interesado no lo dudes y apúntate. El proyecto necesita el compromiso de los vecinos y cuanta más gente seamos más rápido avanzaremos."
+  content : ""
   button:
     enable : false
     label : "Quiero saber más"

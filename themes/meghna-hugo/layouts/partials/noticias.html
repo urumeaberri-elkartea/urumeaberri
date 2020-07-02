@@ -1,4 +1,5 @@
-{{ if gt .Site.RegularPages 0}}
+{{ if .Site.Params.news_active }}
+{{ if gt .Site.RegularPages 0 }}
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section id="noticias" class="section">
 	<div class="container">
@@ -25,4 +26,5 @@
 	</div>
 </section>
 {{"<!-- /blog -->" | safeHTML}}
+{{ end }}
 {{ end }}

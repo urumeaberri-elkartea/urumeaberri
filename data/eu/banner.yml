@@ -6,7 +6,7 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Urumea Berri G.K.E."
   subtitle : "Gastronomi Kultur Elkarte berria zure auzoan!"
-  content : "Interesatua bazaude ez eduki zalantzarik eta izena eman. Proiektuak bizilagunen konpromezua behar du eta zenbat eta jende gehiago azkarrago egingo dugu aurrera."
+  content : ""
   button:
     enable : false
     label : "Gehiago jakin nahi dut"

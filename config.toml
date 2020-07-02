@@ -63,6 +63,7 @@ author = "Urumea Berri G.K.E."
 google_analitycs_id = "UA-157809465-1" # Your ID
 # post share
 post_share = true
+news_active = false
 
 # preloader
 [params.preloader]
@@ -137,9 +138,9 @@ URL = "faq"
 weight = 5
 
 [[Languages.es.menu.main]]
-name = "Noticias"
-URL = "noticias"
-weight = 6
+#name = "Noticias"
+#URL = "noticias"
+#weight = 6
 
 [[Languages.es.menu.main]]
 name = "Contacto"
@@ -181,9 +182,9 @@ URL = "faq"
 weight = 5
 
 [[Languages.eu.menu.main]]
-name = "Berriak"
-URL = "noticias"
-weight = 6
+#name = "Berriak"
+#URL = "noticias"
+#weight = 6
 
 [[Languages.eu.menu.main]]
 name = "Kontaktua"
