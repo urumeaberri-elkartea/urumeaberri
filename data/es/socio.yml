@@ -3,7 +3,7 @@ socio:
   enable : true
   title : Hazte soci@
   inicial: 200
-  extra_obras: 10
+  extra_obras: 0
   content: "<p>Antes de hacerte socio te recomendamos que te leas los estatutos y el reglamento interno de la asociación. 
   Están basados en otras sociedades gastronómicas conocidas y podrán ser discutidos y modificados por todos los socios en las próximas reuniones que organicemos.</p>
   <p>Para unirse al proyecto es necesario el pago de una cuota inicial que asciende a <strong>200€</strong> y <strong>ponerse al día con el pago de las cuotas mensuales y pagos extraordinarios que se hayan tenido que hacer para acometer la obra</strong>.</p>
