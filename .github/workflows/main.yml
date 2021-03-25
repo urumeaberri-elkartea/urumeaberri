@@ -28,8 +28,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v2
         with:
-          token: ${{ secrets.DEPLOYSECRET }}
-          submodules: recursive
+          submodules: 'recursive'
           
       # Step 2: Install Hugo
       - name: Install Hugo
