@@ -29,7 +29,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-          token: ${{ secrets.DEPLOYSECRET }}
           submodules: 'recursive'
           
       # Step 2: Install Hugo
