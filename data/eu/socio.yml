@@ -2,6 +2,8 @@
 socio:
   enable : true
   title : Egin bazkide
+  inicial: 200
+  extra_obras: 0
   content: "<p>Bazkide egin aurretik estatutuak eta barne-araudia irakurtzea gomendatzen dizugu. Ezagutzen ditugun beste elkarte gastronomiko batzuetan oinarrituak daude baino bazkide guztien artean eztabaidatu eta aldatu ahal izango dira antolatzen diren hurrengo bileretan.</p>
   <p>Proiektuan bat egiteko <strong>200€</strong>-ko hasierako kuota bat ordaintzea beharrezkoa da. Honetaz gain <strong>egunean jarri beharko zara hileroko kuoten ordainketarekin edo eta obra egiteko jarri behar izan diren ekarpenekin</strong>, hau da, beste bazkideek egindako ekarpenen zenbatekoa berdindu beharko duzu.</p>
   <p>Lehenengo hileroko kuota uztailean ordainduko da, beraz, abuztuan norbaitek bazkide egin nahi badu ordaindu beharreko diru kopurua 200€ + 50€-ko 2 hileroko izango da.</p>
@@ -11,10 +13,10 @@ socio:
       <tr><th colspan=\"2\" class=\"text-center\">BAZKIDEEK JARRITAKO DIRU KOPURUA</th></tr>
     </thead>
     <tbody>
-      <tr><td>Hasierako ekarpena</td><td>200€</td></tr>
-      <tr><td>Hileroko kuotak</td><td>450€</td></tr>
-      <tr><td>Lokalaren egokitzapenerako emandakoa</td><td>0€</td></tr>
-      <tr><th>Guztira</th><th>650€</th></tr>
+      <tr><td>Hasierako ekarpena</td><td>$$inicial$$</td></tr>
+      <tr><td>Hileroko kuotak</td><td>$$totalMonthlyCuota$$</td></tr>
+      <tr><td>Lokalaren egokitzapenerako emandakoa</td><td>$$extra_obras$$</td></tr>
+      <tr><th>Guztira</th><th>$$total$$</th></tr>
     </tbody>
   </table>
   <p>Egunean jartzeko diru kopurua handitzen bada, edo zailtasunen bat badaukazu, modu zatikatuan ordaintzeko erraztasunak emango ditugu, jarri gurekin harremanetan.</p>

@@ -2,6 +2,8 @@
 socio:
   enable : true
   title : Hazte soci@
+  inicial: 200
+  extra_obras: 0
   content: "<p>Antes de hacerte socio te recomendamos que te leas los estatutos y el reglamento interno de la asociación. 
   Están basados en otras sociedades gastronómicas conocidas y podrán ser discutidos y modificados por todos los socios en las próximas reuniones que organicemos.</p>
   <p>Para unirse al proyecto es necesario el pago de una cuota inicial que asciende a <strong>200€</strong> y <strong>ponerse al día con el pago de las cuotas mensuales y pagos extraordinarios que se hayan tenido que hacer para acometer la obra</strong>.</p>
@@ -12,10 +14,10 @@ socio:
       <tr><th colspan=\"2\" class=\"text-center\">CANTIDAD APORTADA POR LOS SOCI@S</th></tr>
     </thead>
     <tbody>
-      <tr><td>Aportación inicial</td><td>200€</td></tr>
-      <tr><td>Cuotas mensuales</td><td>450€</td></tr>
-      <tr><td>Aportaciones extraordinarias para el acondicionamiento del local</td><td>0€</td></tr>
-      <tr><th>Total</th><th>650€</th></tr>
+      <tr><td>Aportación inicial</td><td>$$inicial$$</td></tr>
+      <tr><td>Cuotas mensuales</td><td>$$totalMonthlyCuota$$</td></tr>
+      <tr><td>Aportaciones extraordinarias para el acondicionamiento del local</td><td>$$extra_obras$$</td></tr>
+      <tr><th>Total</th><th>$$total$$</th></tr>
     </tbody>
   </table>
   <p>Si la cantidad a aportar para ponerse al día empieza a hacerse muy grande o tienes algún problema, daremos facilidades para poder hacerlo de forma fraccionada, ponte en contacto con nosotros.</p>
