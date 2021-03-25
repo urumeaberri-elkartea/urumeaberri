@@ -24,20 +24,27 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      # Step 1: Checks-out repository and submodules
       - name: Checkout 🛎️
         uses: actions/checkout@v2
-
-      # Build hugo site
-      - name: Build 🔧
-        uses: jakejarvis/hugo-build-action@v0.79.0
         with:
-          args: --theme meghna-hugo
-      
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.0
-        with:
-          branch: master # The branch the action should deploy to.
-          folder: public # The folder the action should deploy.
-          repository-name: urumeaberri-elkartea/urumeaberri-elkartea.github.io
           token: ${{ secrets.DEPLOYSECRET }}
+          submodules: recursive
+          
+      # Step 2: Install Hugo
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.79.0'  # your Hugo version here
+        
+      # Step 3: Build and deploy with this action
+      - name: Build Hugo site 🔧 and deploy 🚀
+        uses: aormsby/hugo-deploy-to-pages@v2
+        with:
+          hugo_publish_directory: 'public'
+          source_branch: 'master'
+          deploy_branch: 'master'
+          commit_message: 'Automatic build and deploy.'
+          submodule_branch: 'master'
+          hugo_build_options: '--theme meghna-hugo'
+          
