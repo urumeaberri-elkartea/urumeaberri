@@ -54,7 +54,7 @@
 					</div>
 					{{"<!-- Express About Yourself -->" | safeHTML}}
 					<div class="content text-center">
-						<h3><a href="{{ .url }}">{{ .title }}</a></h3>
+						<h3><a href="{{ .url }}" download onClick="ga('send', 'event', { eventCategory: 'download', eventAction: 'click', eventLabel: '{{ .label }}'});">{{ .title }}</a></h3>
 						{{ .content | markdownify }}
 					</div>
 				</div>

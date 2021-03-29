@@ -25,15 +25,18 @@ socio:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : 1. Estatutuak
-    url : https://bit.ly/UB-Estatudos-GV
+    url : /downloads/Estatutos Registrados.pdf
+    label: estatutos
     #content : 
 
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : 2. Barne-araudia
-    url : https://bit.ly/UB-Reglamento-Interno
+    url : /downloads/UB-REGLAMENTO_INTERNO.pdf
+    label: reglamento
   #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-align-justify # themify icon pack : https://themify.me/themify-icons
     title : 3. Izen-emate inprim.
-    url : https://bit.ly/UB-Formulario-Alta
+    url : /downloads/UB-FORMULARIO.pdf
+    label: formulario
   #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
