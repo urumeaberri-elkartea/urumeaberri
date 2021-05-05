@@ -2330,4 +2330,25 @@ figcaption {
 #alert .alert-primary ul {
   margin-top: 1rem;
 }
+
+/*=================================================================
+  Banner cookies
+==================================================================*/
+.cookie-container {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  background: #292f36;
+  color: #f5f6fa;
+  padding: 16px 32px;
+  box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.39);
+  text-align: center;
+  transition: 400ms;
+}
+
+.cookie-container.active {
+  bottom: 0;
+}
+
 /*# sourceMappingURL=maps/style.css.map */

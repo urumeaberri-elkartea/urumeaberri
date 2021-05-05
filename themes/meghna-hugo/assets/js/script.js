@@ -7,6 +7,10 @@ jQuery(function ($) {
 
 	$(window).on('load', function () {
 		$('.preloader').fadeOut(100);
+
+		if (!localStorage.getItem("cookieBannerDisplayed")) {
+		    $(".cookie-container").addClass("active");
+		}
 	});
 
 
@@ -152,4 +156,12 @@ jQuery(function ($) {
 		counter();
 	});
 
+
+	/* ========================================================================= */
+	/*	cookies
+	/* ========================================================================= */
+	$('.cookie-btn').on('click', function() {
+		$(".cookie-container").removeClass("active");
+		localStorage.setItem("cookieBannerDisplayed", "true");
+	});
 });
