@@ -5,24 +5,40 @@ portfolio:
   content: "<p>Elkartea ezarriko den lokala Aiotzategi kaleko 20 zenbakian aurkitzen da, Urumea Berri auzo berrian, Dia supermerkatuaren atzean. Kantoi batean kokatuta dago eta hego eta mendebalde orientazioa dauka. Kokapen oso ona eta eguzkitsua egun osoan zehar.</p>
   <p><strong>180 m<sup>2</sup></strong> dauzka eta <strong>115.000 &euro; + BEZ</strong>-eko prezioan erosi da, hau da, 139.150€.</p>
   <p>Lokalaren erosketa baldintza ezin hobean finantzatua dago. 10 urterako alokairu bat da eta erosketa aukera esklusiboa daukagu. Alokairuak iraungo duen 10 urte hauetan interesak ordainduko ditugu bakarrik, <strong>%5 UTB-an ezarriak (625€/hilabetean)</strong>. Honela, <strong>ez da beharrezkoa izango lokala erosteko dirua aurreratzea</strong> eta 10 urte dauzkagu lokala erosteko diru kopuru hau biltzeko. Honek operazioa askoz ere merkeagoa egingo du.</p>
-  <p>Bazkide batzarrean lokala erostea erabaki zen nahiz eta 100 bazkide kopurura ez garen iritsi, <strong>aukera ezin hobea zela ikusi bait zen.</strong>. Lokalaren m2 638€-tan erosi da eta inguruko beste lokalak 1200€/m2 prezioan saltzen hari dira. Behin lokala erosita dagoela, behar dugun denbora itxarongo dugu bazkide kopuru nahikoa izateko lokalaren egokitzapenari aurre egiteko. Ideia pixkanaka egiten joatea da, batzarretan erabakitzen dugun heinean. Proiektua hau epe luzerako proiektu bat izan daiteke.</p>
-  <p>Egokitzapen proiektuen aurrekontuak eskatzen gabiltza obrak zenbat kostatuko zaigun gutxi gora behera jakiteko. Erreferentziazko daukagu prezioa <strong>1500€/m2 da</strong> gehienez, honekin zenbatekoa 270.000€-koa izango litzateke. <strong>100 bazkideren artean, 2.700€/bazkideko izango litzateke</strong>. Kopuru hau jaistea da ideia, obraren gauzatzean parte hartuz, gremio desberdinen koordinazioaz arduratzen etab., baino oraingoz, kopuru hori ezarri dugu ezustekoen aurrean babesteko.</p>"
+  <p>Bazkide batzarrean lokala erostea erabaki zen nahiz eta 100 bazkide kopurura ez garen iritsi, <strong>aukera ezin hobea zela ikusi bait zen.</strong>. Lokalaren m2 638€-tan erosi da eta inguruko beste lokalak 1200€/m2 prezioan saltzen hari dira.</p>
+  <p>Asta batzuk daramazkigu arkitektura estudioarekin lanean, lokalaren distribuzio eta itsura zeazten eta dagoeneko ia bukatuta daukagu. Beherago ikus ditzazkezue elkartearen plano eta irudi batzuk nolakoa izango den ikusteko.</p>
+  <p>Behin proiektuaren definizioa bukatuta daukagula, egokitzapen proiektuen aurrekontuak eskatuko ditigu enpresa ezberdinei, obraren diru kopuru zehatz bat edukitzeko. Erreferentzi bezala daukagun prezioa <strong>1500€/m2 da</strong> gehienez, honekin zenbatekoa 270.000€-koa izango litzateke. <strong>100 bazkideren artean, 2.700€/bazkideko izango litzateke</strong>, beraz, zenbat eta pertsona gehiago izan merkeago izango da denontzat.</p>"
   portfolio_item :
     # portfolio item loop
     - name : Lokala
-      image : images/portfolio/Foto-local.png
-      image_webp : images/portfolio/Foto-local.webp
-      content : Aiotzategi kalea 20, Dia supermerkatuaren atzean.
+      image : images/portfolio/Foto-local.jpg
+      image_webp : 
+      content : Aiotzategi kalea, Dia supermerkatu atzean.
       
     # portfolio item loop
     - name : Lokalaren planoa
-      image : images/portfolio/Plano-3d.png
-      image_webp : images/portfolio/Plano-3d.webp
-      content : Lokalaren planoa 3Dn.
+      image : images/portfolio/Plano.png
+      image_webp : 
+      content : Elkartearen distribuzio planoa.
       
     # portfolio item loop
-    - name : Lokalaren planoa
-      image : images/portfolio/Plano-arriba.jpg
-      image_webp : images/portfolio/Plano-arriba.webp
-      content : Lokalaren planoa goitik ikusia
+    - name : Sarrera
+      image : images/portfolio/Entrada.jpg
+      image_webp : 
+      content : Sarreratik ikuspegia.
+      
+    - name : Sukaldea
+      image : images/portfolio/Cocina.jpg
+      image_webp : 
+      content : Sukaldatzeko gunearen ikuspegia.
+
+    - name : Sarrera eta komunak
+      image : images/portfolio/Entrada-wc.jpg
+      image_webp : 
+      content : Sarrera eta komunen ikuspegia.
+
+    - name : Parrila
+      image : images/portfolio/Parrilla.jpg
+      image_webp : 
+      content : Ikatz parrilaren gunea.
       
