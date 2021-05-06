@@ -20,9 +20,13 @@ socio:
       <tr><th>Total</th><th>$$total$$</th></tr>
     </tbody>
   </table>
-  <p>Si la cantidad a aportar para ponerse al día empieza a hacerse muy grande o tienes algún problema, daremos facilidades para poder hacerlo de forma fraccionada, ponte en contacto con nosotros.</p>
-  <p>Para hacerse socio/a hay que descargarse el formulario de alta, rellenar los datos correctamente y hacer una transferencia a la cuenta de la asociación por la cantidad indicada en la tabla de arriba. El número de cuenta se encuentra en el formulario de alta.</p>
-  <p>Una vez realizado todo esto deberás entregarnos en persona o por email tanto el formulario firmado como el justificante de la transferencia.</p>"
+  <p>Si la cantidad a aportar para ponerse al día te parece muy alta y prefieres hacerlo de forma fraccionada ponte en contacto con nosotros y te daremos facilidades.</p>
+  <p>Pasos para hacerse socio o socia:</p>
+  <ol>
+    <li>Descárgate el formulario de alta y rellenalo con los datos del socio o socia (en el mismo se encuentra también el documento a rellenar para autorizarnos a cobrar la cuota mensual establecida).</li>
+    <li>Haz una transferencia a la cuenta de la asociación por la cantidad indicada en la tabla de arriba (el número de cuenta está en el formulario de alta).</li>
+    <li>Entréganos en persona o por email tanto el formulario rellenado como el justificante de la transferencia.</li>
+  </ol>"
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : 1. Estatutos

@@ -19,9 +19,13 @@ socio:
       <tr><th>Guztira</th><th>$$total$$</th></tr>
     </tbody>
   </table>
-  <p>Egunean jartzeko diru kopurua handitzen bada, edo zailtasunen bat badaukazu, modu zatikatuan ordaintzeko erraztasunak emango ditugu, jarri gurekin harremanetan.</p>
-  <p>Bazkide egiteko izen-emate inprimakia deskargatu, datuak bete eta elkartearen kontu-korrontera transferentzia bat egin beharra dago goiko taulan jartzen duen diru kopuruarekin. Kontu korronte zenbakia inprimakian aurkitu daiteke.</p>
-  <p>Guzti hau egin ondoren, posta elektronikoz edo zuzenean entregatu beharko dituzu bai izen-emate inprimakia eta bai transferentzia ziurtagiria.</p>"
+  <p>Egunean jartzeko diru kopurua handiegia iruditzen bazaizu eta modu zatikatuan egitea nahiago baduzu jarri gurekin harremanetan eta erraztasunak emango dizkizugu.</p>
+  <p>Bazkide egiteko pausoak:</p>
+  <ol>
+    <li>Izen-emate inprimakia deskargatu eta bazkidearen datuekin bete (bertan hileroko kuota kobratzeko baimena emate digun bete beharreko dokumentua dago ere).</li>
+    <li>Elkartearen kontu-korrontera transferentzi bat egin goiko taulan jartzen duen diru kopuruarekin (kontu-korronte zenbakia izen-emate inprimakian dago).</li>
+    <li>Bidali email bidez edo zuzenean bai izen-emate inprimakia eta bai transferentzi ziurtagiria.</li>
+  </ol>"
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : 1. Estatutuak
