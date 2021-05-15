@@ -33,6 +33,11 @@ jQuery(function ($) {
 				this.st.mainClass = this.st.el.attr('data-effect');
 			}
 		},
+		gallery: {
+			enabled: true,
+			navigateByImgClick: true,
+			preload: [0,1]
+		},
 		closeOnContentClick: true,
 		midClick: true,
 		fixedContentPos: false,

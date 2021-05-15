@@ -8,37 +8,65 @@ portfolio:
   <p>Bazkide batzarrean lokala erostea erabaki zen nahiz eta 100 bazkide kopurura ez garen iritsi, <strong>aukera ezin hobea zela ikusi bait zen.</strong>. Lokalaren m2 638€-tan erosi da eta inguruko beste lokalak 1200€/m2 prezioan saltzen hari dira.</p>
   <p>Asta batzuk daramazkigu arkitektura estudioarekin lanean, lokalaren distribuzio eta itsura zeazten eta dagoeneko ia bukatuta daukagu. Beherago ikus ditzazkezue elkartearen plano eta irudi batzuk nolakoa izango den ikusteko.</p>
   <p>Behin proiektuaren definizioa bukatuta daukagula, egokitzapen proiektuen aurrekontuak eskatuko ditigu enpresa ezberdinei, obraren diru kopuru zehatz bat edukitzeko. Erreferentzi bezala daukagun prezioa <strong>1500€/m2 da</strong> gehienez, honekin zenbatekoa 270.000€-koa izango litzateke. <strong>100 bazkideren artean, 2.700€/bazkideko izango litzateke</strong>, beraz, zenbat eta pertsona gehiago izan merkeago izango da denontzat.</p>"
-  portfolio_item :
+  portfolio_item :    
     # portfolio item loop
-    - name : Lokala
-      image : images/portfolio/Foto-local.jpg
-      image_webp : 
-      content : Aiotzategi kalea, Dia supermerkatu atzean.
-      
-    # portfolio item loop
-    - name : Lokalaren planoa
+    - name : Plano del local
       image : images/portfolio/Plano.png
-      image_webp : 
-      content : Elkartearen distribuzio planoa.
+      image_thumb : images/portfolio/Plano.png
       
     # portfolio item loop
-    - name : Sarrera
-      image : images/portfolio/Entrada.jpg
-      image_webp : 
-      content : Sarreratik ikuspegia.
+    - name : Comedor
+      image : images/portfolio/01.jpg
+      image_thumb : images/portfolio/01-thumb.jpg
       
-    - name : Sukaldea
-      image : images/portfolio/Cocina.jpg
-      image_webp : 
-      content : Sukaldatzeko gunearen ikuspegia.
+    - name : Cocina
+      image : images/portfolio/02.jpg
+      image_thumb : images/portfolio/02-thumb.jpg
 
-    - name : Sarrera eta komunak
-      image : images/portfolio/Entrada-wc.jpg
-      image_webp : 
-      content : Sarrera eta komunen ikuspegia.
+    - name : Comedor
+      image : images/portfolio/03.jpg
+      image_thumb : images/portfolio/03-thumb.jpg
 
-    - name : Parrila
-      image : images/portfolio/Parrilla.jpg
-      image_webp : 
-      content : Ikatz parrilaren gunea.
-      
+    - name : Parrilla
+      image : images/portfolio/04.jpg
+      image_thumb : images/portfolio/04-thumb.jpg
+
+    - name : Entrada
+      image : images/portfolio/05.jpg
+      image_thumb : images/portfolio/05-thumb.jpg
+
+    - name : Parrilla
+      image : images/portfolio/06.jpg
+      image_thumb : images/portfolio/06-thumb.jpg
+
+    - name : Comedor
+      image : images/portfolio/07.jpg
+      image_thumb : images/portfolio/07-thumb.jpg
+
+    - name : Baños y alamcén
+      image : images/portfolio/08.jpg
+      image_thumb : images/portfolio/08-thumb.jpg
+
+    - name : Comedor
+      image : images/portfolio/09.jpg
+      image_thumb : images/portfolio/09-thumb.jpg
+
+    - name : Armario
+      image : images/portfolio/10.jpg
+      image_thumb : images/portfolio/10-thumb.jpg
+
+    - name : Desde el baño
+      image : images/portfolio/11.jpg
+      image_thumb : images/portfolio/11-thumb.jpg
+
+    - name : Baños y comedor
+      image : images/portfolio/12.jpg
+      image_thumb : images/portfolio/12-thumb.jpg
+
+    - name : Fachada
+      image : images/portfolio/13.jpg
+      image_thumb : images/portfolio/13-thumb.jpg
+
+    - name : Fachada
+      image : images/portfolio/14.jpg
+      image_thumb : images/portfolio/14-thumb.jpg

@@ -8,36 +8,65 @@ portfolio:
   <p>Se acordó en asamblea de socios adquirir el local a pesar de no haber cubierto aún el cupo de 100 personas, debido a que se consideró que era <strong>una oportunidad única.</strong> Reflejo de esto es que el m2 de este local se ha comprado por 638€/m2 cuando otros locales de la zona parten de 1.200€/m2.</p>
   <p>Llevamos semanas trabajando con el estudio de arquitectura elegido para definir la distribución y decoración de la sociedad y ya lo tenemos prácticamente termiando. Podéis ver más abajo el plano y algunas imágenes de como será la sociedad.</p>
   <p>Una vez definido el proyecto pediremos presupuestos a diferentes constructoras para saber con seguridad el importe total de acondicionamiento del local. El precio de referencia que tenemos de momento <strong>es de 1500€/m2</strong> como máximo lo que sumaría un total de 270.000€. <strong>Entre 100 socios, saldría a 2.700€ cada uno</strong> por lo que cuantos más seamos más económico nos saldrá a todos.</p>"
-  portfolio_item :
-    # portfolio item loop
-    - name : El local
-      image : images/portfolio/Foto-local.jpg
-      image_webp : 
-      content : Calle Aiotzategi, detrás del supermercado Dia.
-      
+  portfolio_item :    
     # portfolio item loop
     - name : Plano del local
       image : images/portfolio/Plano.png
-      image_webp : 
-      content : Plano en planta de la sociedad.
+      image_thumb : images/portfolio/Plano.png
       
     # portfolio item loop
-    - name : Entrada
-      image : images/portfolio/Entrada.jpg
-      image_webp : 
-      content : Vistas desde la entrada.
+    - name : Comedor
+      image : images/portfolio/01.jpg
+      image_thumb : images/portfolio/01-thumb.jpg
       
     - name : Cocina
-      image : images/portfolio/Cocina.jpg
-      image_webp : 
-      content : Vistas de la zona de cocinar.
+      image : images/portfolio/02.jpg
+      image_thumb : images/portfolio/02-thumb.jpg
 
-    - name : Entrada y baños
-      image : images/portfolio/Entrada-wc.jpg
-      image_webp : 
-      content : Vistas de la entrada y baños.
+    - name : Comedor
+      image : images/portfolio/03.jpg
+      image_thumb : images/portfolio/03-thumb.jpg
 
     - name : Parrilla
-      image : images/portfolio/Parrilla.jpg
-      image_webp : 
-      content : La zona de la parrilla de carbón.
+      image : images/portfolio/04.jpg
+      image_thumb : images/portfolio/04-thumb.jpg
+
+    - name : Entrada
+      image : images/portfolio/05.jpg
+      image_thumb : images/portfolio/05-thumb.jpg
+
+    - name : Parrilla
+      image : images/portfolio/06.jpg
+      image_thumb : images/portfolio/06-thumb.jpg
+
+    - name : Comedor
+      image : images/portfolio/07.jpg
+      image_thumb : images/portfolio/07-thumb.jpg
+
+    - name : Baños y alamcén
+      image : images/portfolio/08.jpg
+      image_thumb : images/portfolio/08-thumb.jpg
+
+    - name : Comedor
+      image : images/portfolio/09.jpg
+      image_thumb : images/portfolio/09-thumb.jpg
+
+    - name : Armario
+      image : images/portfolio/10.jpg
+      image_thumb : images/portfolio/10-thumb.jpg
+
+    - name : Desde el baño
+      image : images/portfolio/11.jpg
+      image_thumb : images/portfolio/11-thumb.jpg
+
+    - name : Baños y comedor
+      image : images/portfolio/12.jpg
+      image_thumb : images/portfolio/12-thumb.jpg
+
+    - name : Fachada
+      image : images/portfolio/13.jpg
+      image_thumb : images/portfolio/13-thumb.jpg
+
+    - name : Fachada
+      image : images/portfolio/14.jpg
+      image_thumb : images/portfolio/14-thumb.jpg
