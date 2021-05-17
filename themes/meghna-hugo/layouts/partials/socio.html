@@ -4,8 +4,9 @@
 {{ with $data.socio.socio }}
 
 {{ $inicial := int .inicial }}
+{{ $cuotas_50 := int .cuotas_50 }}
 {{ $extra_obras := int .extra_obras }}
-{{ $start := "2020-07-01" | time }}
+{{ $start := "2021-06-01" | time }}
 {{ $startYear := int (printf "%d" $start.Year) }}
 {{ $startMonth := int (printf "%d" $start.Month) }}
 
@@ -19,7 +20,8 @@
 {{ $months := add $months (mul $completeYears 12) }}
 {{ $months := add $months $nowMonth }}
 
-{{ $totalMonthlyCuota := mul $months 50 }}
+{{ $totalMonthlyCuota := mul $months 150 }}
+{{ $totalMonthlyCuota := add $totalMonthlyCuota $cuotas_50 }}
 {{ $total := add (add $totalMonthlyCuota $inicial) $extra_obras}}
 
 {{ $content := replace .content "$$totalMonthlyCuota$$" (printf "%d€" $totalMonthlyCuota) }}

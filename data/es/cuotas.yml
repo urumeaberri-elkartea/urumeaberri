@@ -2,14 +2,14 @@
 cuotas:
   enable : true
   title : Las cuotas
-  content : "<p>En la última reunión de socios y socias se decidió empezar a poner <strong>50€ de cuota mensual</strong>, a partir del próximo mes de julio, para ir adelantando dinero y evitar así tener que hacer aportaciones más grandes de golpe.</p>
-  <p>Ademas de estas cuotas, se harán aportaciones puntuales según vaya avanzando la obra para poder cubrir la cantidad restante. Como se ha mencionado antes, la obra se hará de forma progresiva y se acelerará más o menos en función del número de socios que haya en cada fase y lo que se vaya decidiendo en las distintas asambleas de socios.</p>
-  <p>Una vez ejecutada la obra, se establecería en asamblea de socios la cuota mensual a abonar teniendo en cuenta que se dispone de 10 años para recaudar el importe necesario para la compra definitiva del local.</p>
-  <p>Por lo tanto, las cuotas por socio o socia quedarían de la siguiente manera en un inicio:</p>"
+  content : "<p>Desde el mes de julio de 2020 cada socio y socia ha ido pagando una cuota mensual de 50€. Ahora que el inicio de la obra se va acercando (podríamos empezar en septiembre), se ha decidido que apartir de junio de 2021 esta cuota será ampliada a <strong>150€</strong> para ir acumulando algo más de dinero para la ejecución de la obra.</p>
+  <p>Ademas de estas cuotas, se harán aportaciones puntuales según vaya avanzando la obra para poder cubrir la cantidad restante. No descartamos pedir algún tipo de financiación al banco para que la cantidad a aportar por cada socio y socia no sea tan grande.</p>
+  <p>Una vez ejecutada la obra, se establecerá en asamblea de socios/as la cuota mensual a abonar teniendo en cuenta que disponemos de 10 años para recaudar el importe necesario para la compra definitiva del local.</p>
+  <p>Por lo tanto, en estos momentos, las cuotas por socio o socia quedarían de la siguiente manera:</p>"
   pricing_table :
     # pricing table loop
     - name : Cuota Mensual
-      price : 50€
+      price : 150€
       unit : mes
       services:
-        - Se revisaría una vez ejecutada la obra de acondicionamiento.
+        - Se revisará una vez ejecutada la obra de acondicionamiento.

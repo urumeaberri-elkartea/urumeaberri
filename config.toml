@@ -58,7 +58,7 @@ link = "plugins/jquery-scrolldepth/jquery.scrolldepth.min.js"
 # Meta data
 title_lite = "Urumea Berri G.K.E."
 description = "Urumea Berri Gastronomi Kultur Elkartea - Astigarraga"
-author = "Urumea Berri G.K.E."
+author = "Urumea Berri Gastronomi Kultur Elkartea"
 # Google Analitycs
 google_analitycs_id = "UA-157809465-1" # Your ID
 # post share
