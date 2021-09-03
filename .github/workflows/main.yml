@@ -36,7 +36,7 @@ jobs:
         
       # Step 3: Build and deploy with this action
       - name: Build Hugo site 🔧 and deploy 🚀
-        uses: aormsby/hugo-deploy-to-pages@v2
+        uses: aormsby/hugo-deploy-to-pages
         with:
           hugo_publish_directory: 'public'
           source_branch: 'master'
