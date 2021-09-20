@@ -1,4 +1,4 @@
 alert:
-  enable : true
+  enable : false
   title : Azken Berriak
   content : "<ul><li>Arkitektura estudioa badugu eta proiektua definitzen gabiltza.</li><li>Elkarteak ikatz parrila izango du!</li></ul>"
