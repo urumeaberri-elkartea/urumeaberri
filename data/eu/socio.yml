@@ -27,20 +27,20 @@ socio:
     <li>Bidali email bidez edo zuzenean bai izen-emate inprimakia eta bai transferentzi ziurtagiria.</li>
   </ol>"
   about_item :
+  - icon : ti-align-justify # themify icon pack : https://themify.me/themify-icons
+    title : 1. Izen-emate inprim.
+    url : /downloads/UB-FORMULARIO.pdf
+    label: formulario
+  #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : 1. Estatutuak
+    title : 2. Estatutuak
     url : /downloads/Estatutos Registrados.pdf
     label: estatutos
     #content : 
 
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : 2. Barne-araudia
+    title : 3. Barne-araudia
     url : /downloads/UB-REGLAMENTO_INTERNO.pdf
     label: reglamento
-  #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-align-justify # themify icon pack : https://themify.me/themify-icons
-    title : 3. Izen-emate inprim.
-    url : /downloads/UB-FORMULARIO.pdf
-    label: formulario
   #  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
