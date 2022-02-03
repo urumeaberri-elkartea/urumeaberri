@@ -3,32 +3,6 @@
 {{ if $data.socio.socio.enable }}
 {{ with $data.socio.socio }}
 
-{{ $inicial := int .inicial }}
-{{ $cuotas_50 := int .cuotas_50 }}
-{{ $extra_obras := int .extra_obras }}
-{{ $start := "2021-06-01" | time }}
-{{ $startYear := int (printf "%d" $start.Year) }}
-{{ $startMonth := int (printf "%d" $start.Month) }}
-
-{{ $nowYear := int (printf "%d" now.Year) }}
-{{ $nowMonth := int (printf "%d" now.Month) }}
-
-{{ $completeYears := sub (sub $nowYear $startYear) 1 }}
-
-{{ $diff := now.Sub $start }}
-{{ $months := add (sub 12 $startMonth) 1 }}
-{{ $months := add $months (mul $completeYears 12) }}
-{{ $months := add $months $nowMonth }}
-
-{{ $totalMonthlyCuota := mul $months 150 }}
-{{ $totalMonthlyCuota := add $totalMonthlyCuota $cuotas_50 }}
-{{ $total := add (add $totalMonthlyCuota $inicial) $extra_obras}}
-
-{{ $content := replace .content "$$totalMonthlyCuota$$" (printf "%d€" $totalMonthlyCuota) }}
-{{ $content := replace $content "$$total$$" (printf "%d€" $total) }}
-{{ $content := replace $content "$$inicial$$" (printf "%d€" $inicial) }}
-{{ $content := replace $content "$$extra_obras$$" (printf "%d€" $extra_obras) }}
-
 {{"<!-- Start socio Section -->" | safeHTML}}
 <section class="bg-one about section" id="socio">
 	<div class="container">
@@ -40,7 +14,7 @@
 							{{ with .title }} {{ index (split . " ") 1 }} {{ end }} </span></h2>
 					<div class="border-meghna"></div>
 				</div>
-				<p>{{ $content | safeHTML }}</p>
+				<p>{{ .content | safeHTML }}</p>
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 

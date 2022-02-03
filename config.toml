@@ -122,10 +122,10 @@ name = "El local"
 URL = "local"
 weight = 2
 
-[[Languages.es.menu.main]]
-name = "Las cuotas"
-URL = "cuotas"
-weight = 3
+#[[Languages.es.menu.main]]
+#name = "Las cuotas"
+#URL = "cuotas"
+#weight = 3
 
 [[Languages.es.menu.main]]
 name = "Hazte socio/a"
@@ -165,10 +165,10 @@ name = "Lokala"
 URL = "local"
 weight = 2
 
-[[Languages.eu.menu.main]]
-name = "Kuotak"
-URL = "cuotas"
-weight = 3
+#[[Languages.eu.menu.main]]
+#name = "Kuotak"
+#URL = "cuotas"
+#weight = 3
 
 [[Languages.eu.menu.main]]
 name = "Egin bazkide"

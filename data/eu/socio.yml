@@ -5,25 +5,33 @@ socio:
   inicial: 200
   cuotas_50: 550
   extra_obras: 300
-  content: "<p>Bazkide egin aurretik estatutuak eta barne-araudia irakurtzea gomendatzen dizugu. Ezagutzen ditugun beste elkarte gastronomiko batzuetan oinarrituak daude baino bazkide guztien artean eztabaidatu eta aldatu ahal izango dira antolatzen diren hurrengo bileretan.</p>
-  <p>Proiektuan bat egiteko <strong>200€</strong>-ko hasierako kuota bat ordaintzea beharrezkoa da. Honetaz gain <strong>egunean jarri beharko zara hileroko kuoten ordainketarekin edo eta obra egiteko jarri behar izan diren ekarpenekin</strong>, hau da, beste bazkideek egindako ekarpenen zenbatekoa berdindu beharko duzu.</p>
-  <p>Ondorengo taulan daukazue bazkide bakoitzak, gaur arte, jarri behar izan duen diru kopurua eta bazkide berriek berdindu beharko dutena:</p>
+  content: "<p>Bazkide egin aurretik estatutuak eta barne-araudia irakurtzea gomendatzen dizugu. Ezagutzen ditugun beste elkarte gastronomiko batzuetan oinarrituak daude baino bazkide guztien artean eztabaidatu eta aldatu beharko dira elkartea martxan dagoenean.</p>
+  <p>Proiektua hasi genuenetik bazkide bakoitzak dirua jarri du hileroko kuota baten bitartez eta obra egiteko ordua iritsi denean aurrekontuaren totala bazkideen artean banatu behar izan dugu.</p>
+  <p>Bi aukera eman zaie bazkideei, <strong>dagokion %100a jartzea edo %33a jarri eta gainontzekoa finantziatzea</strong>.</p>
+  <p>Ondorengo taulan daukazue bazkide bakoitzak jarri behar izan duen diru kopurua elkartea martxan jarri ahal izateko:</p>
   <table class=\"table table-dark table-striped\">
     <thead>
-      <tr><th colspan=\"2\" class=\"text-center\">BAZKIDEEK JARRITAKO DIRU KOPURUA</th></tr>
+      <tr><th colspan=\"2\" class=\"text-center\">BAZKIDE BAKOITZAK JARRITAKO DIRU KOPURUA</th></tr>
     </thead>
     <tbody>
-      <tr><td>Hasierako ekarpena</td><td>$$inicial$$</td></tr>
-      <tr><td>Hileroko kuotak</td><td>$$totalMonthlyCuota$$</td></tr>
-      <tr><td>Lokalaren egokitzapenerako jarritakoa</td><td>$$extra_obras$$</td></tr>
-      <tr><th>Guztira</th><th>$$total$$</th></tr>
+      <tr><td>Obra hasi aurretik jarritako kopurua</td><td>1800€</td></tr>
+      <tr><td>Lokalaren egokitzapenerako jarritakoa</td><td>7211,53€</td></tr>
+      <tr><th>Guztira</th><th>9011,53€</th></tr>
     </tbody>
   </table>
-  <p>Egunean jartzeko diru kopurua handiegia iruditzen bazaizu eta modu zatikatuan egitea nahiago baduzu jarri gurekin harremanetan eta erraztasunak emango dizkizugu.</p>
+  <p>Beraz, bazkide egin nahi duenak bi aukera dauzka:</p>
+  <ol>
+  <li>Kopuruaren %100a jartzea: 9011,53€</li>
+  <li>Obra egitearen %33a jartzea eta finantziaziora gehitzea: 1800€ + 2379,80€ = 4179,80€</li>
+  </ol>
+  <p>Nahi genuen bazkide kopurura iritsi ez garenez (obra 49-ren artean egingo dugu eta 100 izatera iritsi nahi degu), bakoitzak jarri beharreko kopurua asko igo zaigu.</p>
+  <p>Honi aurre egiteko, bazkide berri bat sartzen den bakoitzean, honek jarritako diru kopurua dagoeneko dauden bazkideen artean banatuko da. Honela, 100 bazkide izatera iristen garenean bakoitzak jarritako diru kopuruaren erdia berreskuratua izango du.</p>
+  <p>Badakigu diru kopuru handiez hitzegiten ari garela eta horregatik erraztasunak emango dira bakoitzak ahal duen bezala eta ahal duen zatietan ordaindu dezan.</p>
   <p>Bazkide egiteko pausoak:</p>
   <ol>
-    <li>Izen-emate inprimakia deskargatu eta bazkidearen datuekin bete (bertan hileroko kuota kobratzeko baimena emate digun bete beharreko dokumentua dago ere).</li>
-    <li>Elkartearen kontu-korrontera transferentzi bat egin goiko taulan jartzen duen diru kopuruarekin (kontu-korronte zenbakia izen-emate inprimakian dago).</li>
+    <li>Gurekin harremanetan jarri bi aukerak ondo azaldu eta bakoitzaren zenbatekoa jakin eta ordainmodua adosteko.</li>
+    <li>Izen-emate inprimakia deskargatu eta bazkidearen datuekin bete (bertan ezartzeke dagoen hileroko kuota kobratzeko baimena ematen digun bete beharreko dokumentua dago ere).</li>
+    <li>Elkartearen kontu-korrontera transferentzi bat egin adostutako kopuruarekin (kontu-korronte zenbakia izen-emate inprimakian dago).</li>
     <li>Bidali email bidez edo zuzenean bai izen-emate inprimakia eta bai transferentzi ziurtagiria.</li>
   </ol>"
   about_item :

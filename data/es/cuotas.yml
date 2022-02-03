@@ -1,6 +1,6 @@
 ############################# cuotas ###################################
 cuotas:
-  enable : true
+  enable : false
   title : Las cuotas
   content : "<p>Desde el mes de julio de 2020 cada socio y socia ha ido pagando una cuota mensual de 50€. Ahora que el inicio de la obra se va acercando (podríamos empezar en septiembre), se ha decidido que apartir de junio de 2021 esta cuota será ampliada a <strong>150€</strong> para ir acumulando algo más de dinero para la ejecución de la obra.</p>
   <p>Ademas de estas cuotas, se harán aportaciones puntuales según vaya avanzando la obra para poder cubrir la cantidad restante. No descartamos pedir algún tipo de financiación al banco para que la cantidad a aportar por cada socio y socia no sea tan grande.</p>

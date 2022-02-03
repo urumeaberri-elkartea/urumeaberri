@@ -1,6 +1,6 @@
 ############################# cuotas ###################################
 cuotas:
-  enable : true
+  enable : false
   title : Kuotak
   content : "<p>2020ko uztailetik aurrera bazkide bakoitzak 50€-ko hileroko kuota bat jarri du. Orain obraren hasiera gerturatzen hasi dela (irailan hasi gaitezke), 2021-eko ekainetik aurrera hileroko hau <strong>150€-tan</strong> ezartzea erabaki da, obra egiteko dirua biltzen joateko.</p>
   <p>Kuota honetaz gain, ekarpen puntualak jartzen joan beharko gara obra aurrera doan einean. Bazkide bakoitzak jarri beharreko kopurua handiegia ez eziateko bankuari finantzazioa eskatzea ez dugu alde batera uzten.</p>

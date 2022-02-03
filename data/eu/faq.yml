@@ -10,12 +10,12 @@ faq:
       answer: "<p>Elkartea, elkarte <strong>misto</strong> bat izango da, adin nagusiko edozein emakume edo gizon izan daiteke bazkide. Bazkide bakoitzak pertsona bat izendatu dezake baimendu gisa elkartea erabil dezan nahiz eta bazkidea bertan ez egon. Pertsona hau senarra, emaztea, bikotea edo edozein motako bizikidetza daukan pertsona bat izan daiteke.</p>
         <p>Hau da, elkarteko giltza bakoitza bi pertsonek erabili ahal izango dute. Hori bai, erabakiak hartzeko boterea bazkideak bakarrik izango du.</p>"
 
-    - name :  Interesatua nago, zenbat diru jarri behar da?
-      answer : "<p>Gorago dagoen bazkide egiteko atalean gaur arte bazkide bakoitzak jarri duen diru kopuruaren taula dago, <strong>bazkide berriak diru kopuru honetan egunean jarri beharko dira</strong>.</p>
-      <p>Honetaz gain, lokala egokitzeko lanak aurrera joan ahala, diru ekarpen txikiak egiten joan beharko gara hauei aurre egiteko.</p>"
+    #- name :  Interesatua nago, zenbat diru jarri behar da?
+    #  answer : "<p>Gorago dagoen bazkide egiteko atalean gaur arte bazkide bakoitzak jarri duen diru kopuruaren taula dago, <strong>bazkide berriak diru kopuru honetan egunean jarri beharko dira</strong>.</p>
+    #  <p>Honetaz gain, lokala egokitzeko lanak aurrera joan ahala, diru ekarpen txikiak egiten joan beharko gara hauei aurre egiteko.</p>"
     
     - name : Egunen batean bazkide izateari utzi nahi badiot, egindako inbertsioa errekuperatuko dut?
       answer : "<p>Egunen batean, edozein arrazoi dela eta, bazkide izateari utzi nahi badiozu, itxarote-zerrendari botako diogu esku plaza hori eskaintzeko. Bazkide berri bat sartu bezain pronto lokalarentzat egindako inbertsioaren %90-a errekuperatuko duzu. Gainontzeko %10a elkartean geratuko da.</p>"
 
     - name :  Behin elkartea martxan dagoela, nolabaiteko kuotaren bat egongo al da?
-      answer : "<p>Gaur egun <strong>150€/hileko</strong> kuota daukagu ezarrita obrarentzako dirua biltzen joateko. Behin obra bukatuta, bazkide batzar batean erabakiko da hileroko honen zenbatekoa.</p>"
+      answer : "<p>Gaur egun kuota bertan behera utzi dugu. Behin obra bukatuta, bazkide batzar batean erabakiko da hileroko honen zenbatekoa.</p>"

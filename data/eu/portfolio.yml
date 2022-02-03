@@ -3,11 +3,7 @@ portfolio:
   enable : true
   title : Lokala
   content: "<p>Elkartea ezarriko den lokala Aiotzategi kaleko 20 zenbakian aurkitzen da, Urumea Berri auzo berrian, Dia supermerkatuaren atzean. Kantoi batean kokatuta dago eta hego eta mendebalde orientazioa dauka. Kokapen oso ona eta eguzkitsua egun osoan zehar.</p>
-  <p><strong>180 m<sup>2</sup></strong> dauzka eta <strong>115.000 &euro; + BEZ</strong>-eko prezioan erosi da, hau da, 139.150€.</p>
-  <p>Lokalaren erosketa baldintza ezin hobean finantzatua dago. 10 urterako alokairu bat da eta erosketa aukera esklusiboa daukagu. Alokairuak iraungo duen 10 urte hauetan interesak ordainduko ditugu bakarrik, <strong>%5 UTB-an ezarriak (625€/hilabetean)</strong>. Honela, <strong>ez da beharrezkoa izango lokala erosteko dirua aurreratzea</strong> eta 10 urte dauzkagu lokala erosteko diru kopuru hau biltzeko. Honek operazioa askoz ere merkeagoa egingo du.</p>
-  <p>Bazkide batzarrean lokala erostea erabaki zen nahiz eta 100 bazkide kopurura ez garen iritsi, <strong>aukera ezin hobea zela ikusi bait zen</strong>. Lokalaren m2 638€-tan erosi da eta inguruko beste lokalak 1200€/m2 prezioan saltzen hari dira.</p>
-  <p>Aste batzuk daramazkigu arkitektura estudioarekin lanean, lokalaren distribuzio eta itsura zeazten eta dagoeneko ia bukatuta daukagu. Beherago ikus ditzazkezue elkartearen plano eta irudi batzuk nolakoa izango den ikusteko.</p>
-  <p>Behin proiektuaren definizioa bukatuta daukagula, egokitzapen proiektuen aurrekontuak eskatuko ditigu enpresa ezberdinei, obraren diru kopuru zehatz bat edukitzeko. Erreferentzi bezala daukagun prezioa <strong>1500€/m2 da</strong> gehienez, honekin zenbatekoa 270.000€-koa izango litzateke. <strong>100 bazkideren artean, 2.700€/bazkideko izango litzateke</strong>, beraz, zenbat eta pertsona gehiago izan merkeago izango da denontzat.</p>"
+  <p><strong>200 m<sup>2</sup></strong> dauzka eta distribuzio, makinaria eta materiales proiektua definituta dago. Azpiko irudietan ikus dezakezue elkartea nolakoa izango den (kontutan hartu obran zehar aldaketa txikiak egon daitezkeela).</p>"
   portfolio_item :    
     # portfolio item loop
     - name : Plano del local
