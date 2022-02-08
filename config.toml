@@ -54,7 +54,7 @@ link = "plugins/jquery-scrolldepth/jquery.scrolldepth.min.js"
 
 ############################# Default Parameters ##########################
 [params]
-# logo = "images/logo.png"
+# logo = "images/favicon.svg"
 # Meta data
 title_lite = "Urumea Berri G.K.E."
 description = "Urumea Berri Gastronomi Kultur Elkartea - Astigarraga"
