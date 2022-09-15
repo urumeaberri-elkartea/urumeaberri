@@ -1,4 +1,4 @@
 alert:
-  enable : false
+  enable : true
   title : Azken Berriak
-  content : "<ul><li>Arkitektura estudioa badugu eta proiektua definitzen gabiltza.</li><li>Elkarteak ikatz parrila izango du!</li></ul>"
+  content : "<ul><li>Azken 10 bazkide-plaza!</li><li>Obraren amaiera urte bukaerarako dago aurreikusita.</li></ul>"

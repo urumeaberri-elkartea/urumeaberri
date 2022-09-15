@@ -8,7 +8,7 @@ contact:
   
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Urumea Berri auzoa, Astigarraga"
+      info : "Aiotzategi kalea 20, Astigarraga"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Tlf: 626135554 / 617917425"

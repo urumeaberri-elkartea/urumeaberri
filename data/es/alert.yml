@@ -1,4 +1,4 @@
 alert:
-  enable : false
+  enable : true
   title : Última Hora
-  content : "<ul><li>¡Las obras han comenzado!</li></ul>"
+  content : "<ul><li>¡Últimas 10 plazas disponibles!</li><li>Final de obra previsto para final de año.</li></ul>"

@@ -5,11 +5,7 @@ funfacts:
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
-    - title : "Límite de socios"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "100"
+    - title : "¡Últimas plazas!"
+      icon : "ti-alert" # themify icon pack : https://themify.me/themify-icons
+      count : "10"
     
-    # counter item loop
-    - title : "Personas inscritas"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "50"
