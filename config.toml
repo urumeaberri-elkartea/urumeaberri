@@ -122,11 +122,6 @@ name = "El local"
 URL = "local"
 weight = 2
 
-#[[Languages.es.menu.main]]
-#name = "Las cuotas"
-#URL = "cuotas"
-#weight = 3
-
 [[Languages.es.menu.main]]
 name = "Hazte socio/a"
 URL = "socio"
@@ -138,13 +133,9 @@ URL = "faq"
 weight = 5
 
 [[Languages.es.menu.main]]
-#name = "Noticias"
-#URL = "noticias"
-#weight = 6
-
-[[Languages.es.menu.main]]
 name = "Contacto"
 URL = "contact"
+external = false
 weight = 7
 
 ################################ Euskera ########################
@@ -165,11 +156,6 @@ name = "Lokala"
 URL = "local"
 weight = 2
 
-#[[Languages.eu.menu.main]]
-#name = "Kuotak"
-#URL = "cuotas"
-#weight = 3
-
 [[Languages.eu.menu.main]]
 name = "Egin bazkide"
 URL = "socio"
@@ -180,11 +166,6 @@ weight = 4
 name = "Ohizko galderak"
 URL = "faq"
 weight = 5
-
-[[Languages.eu.menu.main]]
-#name = "Berriak"
-#URL = "noticias"
-#weight = 6
 
 [[Languages.eu.menu.main]]
 name = "Kontaktua"
