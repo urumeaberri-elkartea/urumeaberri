@@ -2,8 +2,8 @@
 portfolio:
   enable : true
   title : El Local
-  content: "<p>El local en el que se va a montar la sociedad está situado en la calle Aiotzategi Nº 20, en el nuevo barrio de Urumea Berri, justo detrás del supermercado Dia. Hace esquina por lo que tiene orientación sur y oeste. Muy buena ubicación y soleado durante prácticamente todo el día.</p>
-  <p>Tiene <strong>200 m<sup>2</sup></strong> y el proyecto de distribución, maquinaria y acabados ya está definido. Podéis ver cómo será la sociedad en las imágenes que hay a continuación (tener en cuenta que puede haber modificaciones durante la obra).</p>"
+  content: "<p>El local en el que se ha montado la sociedad tiene <strong>200 m<sup>2</sup></strong> y está situado en la calle Aiotzategi Nº 20, en el nuevo barrio de Urumea Berri, justo detrás del supermercado Alcampo. Hace esquina por lo que tiene orientación sur y oeste. Muy buena ubicación y soleado durante prácticamente todo el día.</p>
+  <p>Podéis ver cómo ha quedado la obra en las imágenes que hay a continuación.</p>"
   portfolio_item :    
     # portfolio item loop
     - name : Plano del local

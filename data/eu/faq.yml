@@ -6,8 +6,8 @@ faq:
   content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
   faq_item :
-    - name : Nolako elkartea izango da?
-      answer: "<p>Elkartea, elkarte <strong>misto</strong> bat izango da, adin nagusiko edozein emakume edo gizon izan daiteke bazkide. Bazkide bakoitzak pertsona bat izendatu dezake baimendu gisa elkartea erabil dezan nahiz eta bazkidea bertan ez egon. Pertsona hau senarra, emaztea, bikotea edo edozein motako bizikidetza daukan pertsona bat izan daiteke.</p>
+    - name : Nolako elkartea da?
+      answer: "<p>Elkartea, elkarte <strong>misto</strong> bat da, adin nagusiko edozein emakume edo gizon izan daiteke bazkide. Bazkide bakoitzak pertsona bat izendatu dezake baimendu gisa elkartea erabil dezan nahiz eta bazkidea bertan ez egon. Pertsona hau senarra, emaztea, bikotea edo edozein motako bizikidetza daukan pertsona bat izan daiteke.</p>
         <p>Hau da, elkarteko giltza bakoitza bi pertsonek erabili ahal izango dute. Hori bai, erabakiak hartzeko boterea bazkideak bakarrik izango du.</p>"
 
     #- name :  Interesatua nago, zenbat diru jarri behar da?
@@ -16,6 +16,3 @@ faq:
     
     - name : Egunen batean bazkide izateari utzi nahi badiot, egindako inbertsioa errekuperatuko dut?
       answer : "<p>Egunen batean, edozein arrazoi dela eta, bazkide izateari utzi nahi badiozu, itxarote-zerrendari botako diogu esku plaza hori eskaintzeko. Bazkide berri bat sartu bezain pronto lokalarentzat egindako inbertsioaren %90-a errekuperatuko duzu. Gainontzeko %10a elkartean geratuko da.</p>"
-
-    - name :  Behin elkartea martxan dagoela, nolabaiteko kuotaren bat egongo al da?
-      answer : "<p>Gaur egun kuota bertan behera utzi dugu. Behin obra bukatuta, bazkide batzar batean erabakiko da hileroko honen zenbatekoa.</p>"

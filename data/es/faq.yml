@@ -6,8 +6,8 @@ faq:
   content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
   faq_item :
-    - name : ¿Qué tipo de sociedad va a ser?
-      answer: "<p>La sociedad va a ser <strong>mixta</strong>, tanto mujeres como hombres mayores de edad pueden ser socios. Cada socio/a podrá designar una persona como autorizada para que haga también uso de la sociedad sin que tenga que estar el socio o socia presente. Esta persona autorizada podrá ser el marido, mujer, pareja o cualquier tipo de unidad convivencial.</p>
+    - name : ¿Qué tipo de sociedad es?
+      answer: "<p>La sociedad es <strong>mixta</strong>, tanto mujeres como hombres mayores de edad pueden ser socios o socias. Cada socio/a podrá designar una persona como autorizada para que haga también uso de la sociedad sin que tenga que estar el socio o socia presente. Esta persona autorizada podrá ser el marido, mujer, pareja o cualquier tipo de unidad convivencial.</p>
         <p>Es decir, cada llave de la sociedad podrá ser utilizada por dos personas. Eso sí, a la hora de tomar decisiones será el socio o socia el que tenga el poder de decidir.</p>"
 
     #- name :  Estoy interesado, ¿cuánto dinero hay que poner?
@@ -16,6 +16,3 @@ faq:
     
     - name : Si algún día tengo que dejar de ser socio/a, ¿recuperaré lo invertido?
       answer : "<p>Si algún día decides, por el motivo que sea, dejar la sociedad, se tirará de la lista de espera para ofrecer esa plaza. En cuanto entre un nuevo socio o socia recuperarás el 90% de lo invertido en el local. El 10% restante se quedará en la sociedad.</p>"
-
-    - name :  Una vez esté la sociedad en marcha, ¿habrá algún tipo de cuota mensual/anual?
-      answer : "<p>En estos momentos hemos cancelado la cuota mensual. Una vez en marcha la sociedad se decidirá en asamblea de socios el importe de la misma.</p>"

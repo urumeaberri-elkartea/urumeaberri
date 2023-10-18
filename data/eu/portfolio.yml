@@ -2,8 +2,8 @@
 portfolio:
   enable : true
   title : Lokala
-  content: "<p>Elkartea ezarriko den lokala Aiotzategi kaleko 20 zenbakian aurkitzen da, Urumea Berri auzo berrian, Dia supermerkatuaren atzean. Kantoi batean kokatuta dago eta hego eta mendebalde orientazioa dauka. Kokapen oso ona eta eguzkitsua egun osoan zehar.</p>
-  <p><strong>200 m<sup>2</sup></strong> dauzka eta distribuzio, makinaria eta materiales proiektua definituta dago. Azpiko irudietan ikus dezakezue elkartea nolakoa izango den (kontutan hartu obran zehar aldaketa txikiak egon daitezkeela).</p>"
+  content: "<p>Elkartea ezarriko den lokalak <strong>200 m<sup>2</sup></strong> dauzka eta Aiotzategi kaleko 20 zenbakian aurkitzen da, Urumea Berri auzo berrian, Alcampo supermerkatuaren atzean. Kantoi batean kokatuta dago eta hego eta mendebalde orientazioa dauka. Kokapen oso ona eta eguzkitsua egun osoan zehar.</p>
+  <p>Azpiko irudietan ikus dezakezue elkartea nola geratu den.</p>"
   portfolio_item :    
     # portfolio item loop
     - name : Plano del local

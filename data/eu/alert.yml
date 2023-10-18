@@ -1,4 +1,4 @@
 alert:
-  enable : true
+  enable : false
   title : Azken Berriak
   content : "<ul><li>Azken 10 bazkide-plaza!</li><li>Obraren amaiera urte bukaerarako dago aurreikusita.</li></ul>"
