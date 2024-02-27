@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contacto
   subtitle : Detalles de contacto
-  content : Si tienes cualquier pregunta o duda sobre el proyecto no dudes en preguntarnos.
+  content : Si tienes cualquier pregunta o duda sobre la sociedad no dudes en preguntarnos.
   form_action: "https://formspree.io/xvoakvky" #contact form works with https://formspree.io
 
   contact_details :
