@@ -99,9 +99,9 @@ map_marker = "images/marker.png"
 #icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
 #link = "#"
 
-#[[params.social]]
-#icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-#link = "#"
+[[params.social]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/urumeaberri.gke"
 
 
 ################################ Castellano ########################
